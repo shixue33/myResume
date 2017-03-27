@@ -6,7 +6,7 @@
 ### 个人信息 
 - 臧慧芝 / 女 / 1989 
 - 本科 / 中南大学 / 计算机科学与技术 
-- 工作年限: 4 年 
+- 工作年限: 5 年 
 - 期望职位:高级测试工程师 自动化测试工程师 测试开发工程师 
 - 期望城市:深圳 长沙
 
@@ -53,13 +53,16 @@
 
 ### 技能清单 
 
-- 测试技能:编写测试用例，执行测试用例，分析与定位bug，跟踪管理bug，编写测试报告 
+- 测试技能:测试流程管理，测试用例设计
 
 - 调试技能:logcat/DDMS/MAT/Android Studio monitor/wireshark/Fiddler/Charles
 
 - 测试框架:TestNG/Appium/Robotium/Uiautomator/ATX
+
 - 开发技能:python(django)/Java/数据库
+
 - 测试工具:monkey/JMeter
+
 - 其他工具:jenkins/git 
 
 ## 致谢 
